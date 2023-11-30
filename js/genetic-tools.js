@@ -1,10 +1,3 @@
-/**
- *  A Light-Weight Tool Box For Genetic Algorithm
- *  Developer : Amir Kabiri
- *  Github : https://github.com/amirkabiri
- *  Site : https://akdev.ir
- */
-
 const GeneticAlgorithm = {
     selection : {
         /**
