@@ -1,12 +1,3 @@
-/**
- *  Genetic Algorithm based engine to solve n-queens problem
- *  Developer : Amir Kabiri
- *  Github : https://github.com/amirkabiri
- *  Site : https://akdev.ir
- *  Usage : create object from this class and call object.run() generator to get step by step solution
- *  Dependencies : ./genetic-tools.js
- */
-
 class NQueensGeneticEngine{
     constructor(n = 8, { populationSize } = {}){
         this._n = n;
