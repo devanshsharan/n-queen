@@ -1,11 +1,3 @@
-/**
- *  BackTracking engine to solve n-queens problem
- *  Developer : Amir Kabiri
- *  Github : https://github.com/amirkabiri
- *  Site : https://akdev.ir
- *  Usage : create object from this class and call object.run() generator to get step by step solution
- */
-
 class NQueensBacktrackingEngine{
 
     constructor(n = 8){
